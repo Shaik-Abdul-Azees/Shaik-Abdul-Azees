@@ -32,8 +32,7 @@ I am dedicated to developing the essential skills required to advance my career 
 <div align="center">
 
 ### Programming Languages
-| Skill       | Proficiency               |
-(https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) | █████████░░░░ 80% |
+| Skill       | Proficiency             
 | ![Data Science](https://img.shields.io/badge/Data%20Science-00A9E0?style=for-the-badge&logo=python&logoColor=white) | █████████░░░░ 80% |
 
 
