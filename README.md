@@ -75,4 +75,4 @@ I am dedicated to developing the essential skills required to advance my career 
 
 - 🥈 **2nd Rank** in Cloud Project Presentation Competition
 
-</div>v
+</div>
